@@ -520,10 +520,3 @@ def main():
 
 #Call the main() function
 main()
-
-
-
-
-
-#Program Notes:
-#Can't rerun program with created csv file open
