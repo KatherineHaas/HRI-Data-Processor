@@ -527,5 +527,3 @@ main()
 
 #Program Notes:
 #Can't rerun program with created csv file open
-#Need to create a write up about this program
-#Need to create an account to something and share with Megan (Ask about what it is)
